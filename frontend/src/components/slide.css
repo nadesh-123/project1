@@ -1,0 +1,16 @@
+.b-img {
+  width: 100%;
+  height: 100%;
+  object-fit: fill;
+  object-position: center;
+  overflow: hidden;
+}
+@media (max-width: 900px) {
+  .b-img {
+    width: 100%;
+    height: 100%;
+    object-fit: fill;
+    object-position: center;
+    overflow: hidden;
+  }
+}
